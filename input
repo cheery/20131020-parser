@@ -1,0 +1,22 @@
+def nano(x, y)
+    foobar(x, 6)
+        blah
+        bluh
+        guux
+            yippee
+            baaz
+    return bar ()
+guux(
+    5,
+    6
+)
+if a == b == c
+    hello("world")
+elif g
+    pass
+else
+    pass
+foo
+    def()
+        pass
+    guux

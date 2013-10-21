@@ -1,0 +1,25 @@
+## Here's my language lexemes.
+# the language uses bash style comments.
+# so this file can be used for testing...
+
+# comments are hidden inside newline elements, btw.
+
+alfa bravo charlie () [] {}
+
+== - + ! !=
+
+delta.members
+
+(comma, is, symbol)
+
+20, 50.5, -30
+
+string examples
+    "string example"
+    'another string example'
+    b'yet one string example'
+    r"regex \" string"
+
+"will support bash style $echo ${foxtrot+5} formatting within double quotes"
+
+# this file is tokenized properly by the tokenizer already.
